@@ -1,12 +1,21 @@
 # PESEL tester
-Prosta aplikacja, która może zostać elementem większego systemu, gdzie potrzebna jest walidacja numeru PESEL
 
+Prosta aplikacja desktopowa w Pythonie (Tkinter), która sprawdza poprawność numeru PESEL na podstawie oficjalnego algorytmu (suma kontrolna). Aplikacja może zostać elementem większego systemu, gdzie potrzebna jest walidacja numeru PESEL
+
+ℹ️ Informacja historyczna
+
+Projekt powstał w latach 2016–2018 jako proste narzędzie do weryfikacji numeru PESEL. Został nieznacznie odświeżony przed publikacją (m.in. usunięcie zbędnych importów, drobna refaktoryzacja), ale celowo zachowano jego pierwotny minimalizm i strukturę z czasów, gdy powstała.
 
 
 # Zrzut ekranu
 ![Zrzut ekranu](pesel_tester.png)
 
+## Jak uruchomić
 
+1. Upewnij się, że masz zainstalowanego Pythona (3.6+)
+2. Pobierz repozytorium:
+   ```bash
+   git clone https://github.com/CodeTruckerDev/PESEL-tester
 
 # TODO lista rozwojowa
 Walidacja danych wejściowych
