@@ -1,6 +1,13 @@
 # PESEL tester
 Prosta aplikacja, która może zostać elementem większego systemu, gdzie potrzebna jest walidacja numeru PESEL
 
+
+
+# Zrzut ekranu
+![Zrzut ekranu](pesel_tester.png)
+
+
+
 # TODO lista rozwojowa
 Walidacja danych wejściowych
 
@@ -24,3 +31,6 @@ Dodatkowe funkcje (opcjonalnie)
 
 - Rozpoznaj płeć (na podstawie 10. cyfry — parzysta = kobieta, nieparzysta = mężczyzna)
 
+
+---
+> "Nie jestem programistą z zawodu. Jestem nim z powołania."
